@@ -1,0 +1,4 @@
+fastapi==0.116.1
+SQLAlchemy==2.0.36
+uvicorn[standard]==0.35.0
+PyNaCl==1.5.0
